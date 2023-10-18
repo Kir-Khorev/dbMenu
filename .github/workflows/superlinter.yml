@@ -3,7 +3,7 @@ name: Frontend CI/CD YML
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
